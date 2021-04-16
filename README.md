@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - Parallel Time Dimension for analytical cubes
 - Basket Analysis
 
-## Aleksandar's Python Projects
+## Python Projects
 
 <a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter.ipynb">Project: Frequency of each letter in English, German, Serbian</a>
 
