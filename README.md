@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - Backup/reload strategy solutions for Datawarehouse (DWH)
 - Complex Time-series event tracking of more than 1000 billion items (STOCK INVENTORY) in 90 minutes (pure Oracle dev solution)
 - Parallel Time Dimension for analytical cubes
+- Basket Analysis
 
 ## Aleksandar's Python Projects
 
