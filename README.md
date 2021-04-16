@@ -16,6 +16,16 @@ You can click the Preview link to take a look at your changes.
 - Complex Time-series event tracking of more than 1000 billion items (STOCK INVENTORY) in 90 minutes (pure Oracle dev solution)
 - Parallel Time Dimension for analytical cubes
 
+## Aleksandar's Python Projects
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter.ipynb">Project: Frequency of each letter in English, German, Serbian</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Volcanoes_and_Earthquakes.ipynb">Project: Correlation between Volcanoes and Earthquakes</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Refreshing_DWH_Dimension_using_Python.ipynb">Project: Refreshing DWH Dimension using Python</a>
+
+<br/>
+
 ## Languages
 - SQL
 - PL/SQL
