@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @aleksandaroj
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, ML
-- 💞️ I’m looking to collaborate on any tpye of database/data related projects
-- 📫 You can reach me via https://www.linkedin.com/in/aleksandardimitrievski/
+- 💞️ I’m looking to collaborate in database/data related projects
+- 📫 You can reach me via
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksandaroj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandardimitrievski/)  
+
+
 
 <!---
 aleksandaroj/aleksandaroj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 - Complex Time-series event tracking of more than 1000 billion items (STOCK INVENTORY) in 90 minutes (pure Oracle dev solution)
 - Parallel Time Dimension for analytical cubes
 - Basket Analysis
+- QA Data Generation Framework
 
 ## Python Projects
 
