@@ -27,7 +27,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Python Projects
 
-<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter.ipynb">Project: Frequency of each letter in English, German, Serbian</a>
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter.ipynb">Project: Frequency of each letter in English, German, Serbian (func)</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter_oo.ipynb">Project: Frequency of each letter in English, German, Serbian (oo)</a>
 
 <a href ="https://github.com/aleksandaroj/data/blob/main/Project_Volcanoes_and_Earthquakes.ipynb">Project: Correlation between Volcanoes and Earthquakes</a>
 
