@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - Parallel Time Dimension for analytical cubes
 - Basket Analysis
 - QA Data Generation Framework
-- Rocket - InHouse Deployment Tool for BI
+- Rocket - InHouse Deployment Tool for DWH
 
 ## Python Projects
 
