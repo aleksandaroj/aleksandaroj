@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 - Basket Analysis
 - QA Data Generation Framework
 - Rocket - InHouse Deployment Tool for DWH
+- CI/CD pipeline with automated QA tests 
 
 ## Python Projects
 
