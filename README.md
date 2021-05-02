@@ -1,3 +1,5 @@
+![banner](https://github.com/aleksandaroj/aleksandaroj/blob/41c1d728f4162956486c58dbda049c2222abdb8e/aleksandar.png)
+
 - 👋 Hi, I’m @aleksandaroj
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, ML
