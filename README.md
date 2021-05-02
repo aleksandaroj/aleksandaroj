@@ -1,9 +1,7 @@
-![banner](https://github.com/aleksandaroj/aleksandaroj/blob/41c1d728f4162956486c58dbda049c2222abdb8e/aleksandar.png)
-
 - 👋 Hi, I’m @aleksandaroj
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, ML
-- 💞️ I’m looking to collaborate in database/data related projects
+- 👀 I’m interested in Data Analysis / Science / ML
+- 🌱 I’m currently advancing Python
+- 💞️ I’m looking to collaborate in data related projects
 - 📫 You can reach me via
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksandaroj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandardimitrievski/)  
