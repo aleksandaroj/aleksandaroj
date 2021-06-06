@@ -38,7 +38,8 @@ You can click the Preview link to take a look at your changes.
 <a href ="https://github.com/aleksandaroj/data/blob/main/Project_Refreshing_DWH_Dimension_using_Python.ipynb">Project: Refreshing DWH Dimension using Python</a>
 
 ## Certifications
-- <a href ="https://www.youracclaim.com/badges/2ee73954-fc43-4a53-97b2-dd5943976192?source=linked_in_profile">AWS Certified Cloud Practitioner, Amazon Web Services Training and Certification</a>
+- <a href ="https://www.credly.com/badges/acd9a2a6-a2d7-4658-b291-1dfaa4f4534c">MTA: Introduction to Programming Using Python - Certified 2021</a>
+- <a href ="https://www.youracclaim.com/badges/2ee73954-fc43-4a53-97b2-dd5943976192">AWS Certified Cloud Practitioner, Amazon Web Services Training and Certification</a>
 - MCTS – Microsoft SQL Server 2008, Business Intelligence Development and Maintenance, Microsoft
 - Certified ScrumMaster, Scrum Alliance - Credential ID MEMBER: 000293641
 
