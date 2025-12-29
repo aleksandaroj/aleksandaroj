@@ -88,3 +88,22 @@ You can click the Preview link to take a look at your changes.
   - Power BI
 - Collaboration
   - Atlassian Suite
+
+## Other projects and show cases:
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter.ipynb">Project: Frequency of each letter in English, German, Serbian</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter_oo.ipynb">Project (Object-oriented approach): Frequency of each letter in English, German, Serbian</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Volcanoes_and_Earthquakes.ipynb">Project: Correlation between Volcanoes and Earthquakes</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Corona_incidenca.ipynb">Show case: Corona incidence</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Create Date Dimension in DWH.ipynb">Show case: Create Date Dimension in DWH</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Refreshing_DWH_Dimension_using_Python.ipynb">Show case: Refreshing DWH Dimension using Python</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Drill-down_BI_-_Agg_table_to_source_table.ipynb">Show case: Drill-down thorugh agg table to source table with transactions</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/ML_model_NN_Cancer.ipynb">Show case: Neural network model for cancer detection</a>
+
+<a href ="https://github.com/aleksandaroj/data/blob/main/Random_2D_graf_-_merenje_vremena.ipynb">Show case: Random 2D graph - Time measurement</a>
