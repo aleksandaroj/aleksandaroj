@@ -35,13 +35,18 @@ You can click the Preview link to take a look at your changes.
 
 ## Python Projects
 
-<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter.ipynb">Project: Frequency of each letter in English, German, Serbian (func)</a>
+|Project / Showcase|Core Technologies|Description|
+| :--- | :--- | :--- |
+|<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter.ipynb">Frequency of Each Letter</a> <br><br> <a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter_oo.ipynb">Frequency of each letter (object-oriented)</a>|Python, String Ops|Multi-language (EN, DE, SRB) analysis of character distributions.|
+|<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Volcanoes_and_Earthquakes.ipynb">Volcanoes and Earthquakes</a>|Pandas, Matplotlib, Correlation|Geospatial analysis of geological events correlations.|
+|<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Refreshing_DWH_Dimension_using_Python.ipynb">DWH Dimension Refresh</a>|Python, SQL, ETL|Automating DWH maintenance tasks using Python scripts.|
+|<a href ="https://github.com/aleksandaroj/data/blob/main/ML_model_NN_Cancer.ipynb">NN Cancer Detection</a>|TensorFlow, Neural Networks|Predictive modeling for medical diagnostics.|
+|<a href ="https://github.com/aleksandaroj/data/blob/main/Drill-down_BI_-_Agg_table_to_source_table.ipynb">Drill-down BI Tool</a>|Python, Analytics|Implementation of aggregation-to-transaction logic.|
+|[more projects](#other-projects-and-show-cases)|||
 
-<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Frequency_of_each_letter_oo.ipynb">Project: Frequency of each letter in English, German, Serbian (oo)</a>
 
-<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Volcanoes_and_Earthquakes.ipynb">Project: Correlation between Volcanoes and Earthquakes</a>
 
-<a href ="https://github.com/aleksandaroj/data/blob/main/Project_Refreshing_DWH_Dimension_using_Python.ipynb">Project: Refreshing DWH Dimension using Python</a>
+
 
 ## Certifications
 - <a href ="https://credentials.databricks.com/6492d9be-9895-48b3-8f9a-e7273ea67087#acc.GLiU5hsR">Databricks Certified Data Engineer Associate</a>
@@ -54,12 +59,17 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-## Databases
+## Databases & Storage
+### Relational
 - Oracle
 - SQL Server
 - PostgreSQL
-- Timescale (TigerData)
-- Teradata
+- MySQL, Teradata
+### Time-Series: 
+- TimescaleDB (TigerData)
+### Modern:
+- Vectors
+- Databricks Delta Lake
 
 ## Languages
 - SQL
