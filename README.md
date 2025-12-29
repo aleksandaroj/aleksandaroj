@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
 <a href ="https://github.com/aleksandaroj/data/blob/main/Project_Refreshing_DWH_Dimension_using_Python.ipynb">Project: Refreshing DWH Dimension using Python</a>
 
 ## Certifications
-- <a href ="https://api.accredible.com/v1/obi/badge_assertions/6492d9be-9895-48b3-8f9a-e7273ea67087">Databricks Certified Data Engineer Associate</a>
-- <a href ="https://api.accredible.com/v1/obi/badge_assertions/ac3d249a-7634-4650-bcb0-d0f488ca07a1">Academy Accreditation - Databricks Fundamentals</a>
+- <a href ="https://credentials.databricks.com/6492d9be-9895-48b3-8f9a-e7273ea67087#acc.GLiU5hsR">Databricks Certified Data Engineer Associate</a>
+- <a href ="https://credentials.databricks.com/ac3d249a-7634-4650-bcb0-d0f488ca07a1#acc.owsyLmbH">Academy Accreditation - Databricks Fundamentals</a>
 - <a href ="https://www.credly.com/badges/acd9a2a6-a2d7-4658-b291-1dfaa4f4534c">MTA: Introduction to Programming Using Python - Certified 2021</a>
 - <a href ="https://www.youracclaim.com/badges/2ee73954-fc43-4a53-97b2-dd5943976192">AWS Certified Cloud Practitioner, Amazon Web Services Training and Certification</a>
 - MCTS – Microsoft SQL Server 2008, Business Intelligence Development and Maintenance, Microsoft
