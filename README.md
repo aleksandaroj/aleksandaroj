@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleksandaroj
-- 🌱 I’m currently advancing Machine Learning, Databricks, Vectors, TensorFlow
+- 🌱 I’m currently advancing **Machine Learning**, **Databricks**, **Vectors**, **TensorFlow**
 - 📫 You can reach me via
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksandaroj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandardimitrievski/)  
