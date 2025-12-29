@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleksandaroj
-- 🌱 I’m currently advancing Vectors
+- 🌱 I’m currently advancing Databricks, Vectors, TensorFlow
 - 📫 You can reach me via
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksandaroj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandardimitrievski/)  
@@ -42,6 +42,8 @@ You can click the Preview link to take a look at your changes.
 <a href ="https://github.com/aleksandaroj/data/blob/main/Project_Refreshing_DWH_Dimension_using_Python.ipynb">Project: Refreshing DWH Dimension using Python</a>
 
 ## Certifications
+- <a href ="https://api.accredible.com/v1/obi/badge_assertions/6492d9be-9895-48b3-8f9a-e7273ea67087">Databricks Certified Data Engineer Associate</a>
+- <a href ="https://api.accredible.com/v1/obi/badge_assertions/ac3d249a-7634-4650-bcb0-d0f488ca07a1">Academy Accreditation - Databricks Fundamentals</a>
 - <a href ="https://www.credly.com/badges/acd9a2a6-a2d7-4658-b291-1dfaa4f4534c">MTA: Introduction to Programming Using Python - Certified 2021</a>
 - <a href ="https://www.youracclaim.com/badges/2ee73954-fc43-4a53-97b2-dd5943976192">AWS Certified Cloud Practitioner, Amazon Web Services Training and Certification</a>
 - MCTS – Microsoft SQL Server 2008, Business Intelligence Development and Maintenance, Microsoft
@@ -49,13 +51,20 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
+## Databases
+- Oracle
+- SQL Server
+- PostgreSQL
+- Timescale (TigerData)
+- Teradata
 
 ## Languages
 - SQL
   - PL/pgSQL
   - PL/SQL
   - T-SQL
-- Python / Pandas, NumPy
+- Python / pandas, NumPy, scikit-learn, TensorFlow
+- PySpark (personal projects)
 
 ## Tools
 - All database-related tools
